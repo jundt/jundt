@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Моё резюме
 
-[тык сюда](https://drive.google.com/file/d/1zirMVqBbVO876BBVZsddeuq1MkhGBqUv/view?usp=sharing)
+[тык сюда](https://drive.google.com/file/d/1I8YKeszEwAwUPjmG-1o5-0Ea4Wt3niTs/view?usp=sharing)
 
 ## Портфолио
 
