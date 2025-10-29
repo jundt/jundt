@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 🛠️ _Кроссбраузерное тестирование | Чек-лист | Тест-кейсы | DevTools | Figma_
 
 ### 📗 [Проект №3: тестирование мобильного приложения](https://docs.google.com/spreadsheets/d/141L_Dn1xVnZLDALBLhPMNjY5nLhMh7Loabr7BeU0i9I/edit?usp=sharing)
-🛠️ _Регрессионное тестирование | Android Studio | Figma_
+🛠️ _Тестирование новой функциональности | Регрессионное тестирование | Android Studio | Figma_
 
 ### 📗 [Проект №4: тестирование API веб-приложения](https://docs.google.com/spreadsheets/d/18kRN55G-tg8aflm4CzpkILvEjQ0vwxeIZv5yb0yJ7Iw/edit?usp=sharing)
 🛠️ _Postman | apiDoc_ | [Коллекция проекта в Postman](https://.postman.co/workspace/My-Workspace~b8302591-1506-44b5-823e-a6623c215ff6/collection/47844908-342bfea5-2449-45fe-8959-f63b16269ff6?action=share&creator=47844908&active-environment=47844908-68214a58-0f5d-4ea8-9957-5a2d580f7a30)
